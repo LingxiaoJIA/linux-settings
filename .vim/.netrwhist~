@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/rexjia/gem5-stable/src/arch'
+let g:netrw_dirhist_2='/home/rexjia/gem5-stable/src/arch/arm'
+let g:netrw_dirhist_3='/home/rexjia/qemu'
+let g:netrw_dirhist_4='/home/rexjia/qemu/include'
+let g:netrw_dirhist_5='/home/rexjia/qemu/include/add-on'
+let g:netrw_dirhist_6='/home/rexjia/qemu/include/exec'
+let g:netrw_dirhist_7='/home/rexjia/qemu/temp/in_dats'

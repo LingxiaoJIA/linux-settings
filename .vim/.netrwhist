@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/usr/share/vim/vim74/compiler'
+let g:netrw_dirhist_2='/usr/share/vim/vim74/colors'
+let g:netrw_dirhist_3='/usr/share/vim/vim74/compiler'
+let g:netrw_dirhist_4='/usr/share/vim/vim74'
+let g:netrw_dirhist_5='/home/rexjia/qemu/benchmark'
+let g:netrw_dirhist_6='/home/rexjia/qemu'
